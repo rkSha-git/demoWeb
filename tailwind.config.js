@@ -57,6 +57,11 @@ module.exports = {
         's44': '44rem',
         's45': '45rem',
       },
+      screens: {
+        '2xsm': '340px',
+        'xsm': '470px',
+        'msm': '550px',  
+      },
     },
   },
   plugins: [],
